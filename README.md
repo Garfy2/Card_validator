@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/o3psxmbmy2qayv7m84y7iv1s?svg=true)](https://ci.appveyor.com/project/Garfy2/card-validator)
+[![Build status](https://ci.appveyor.com/api/projects/status/k20srfg6yhxsbc52?svg=true)](https://ci.appveyor.com/project/Garfy2/card-validator)
 
 WEB Version https://garfy2.github.io/Card_validator/
 
