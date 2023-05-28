@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ct54ucynnhs57j2a?svg=true)](https://ci.appveyor.com/project/____________________)
+[![Build status](https://ci.appveyor.com/api/projects/status/ct54ucynnhs57j2a?svg=true)](https://ci.appveyor.com/project/Garfy2/card-validator)
 
-WEB Version _______________
+WEB Version https://garfy2.github.io/Card_validator/
 
 ---
 
